@@ -1,0 +1,9 @@
+-Poner valoracion en el index.
+-Detalles de cada Producto en una pagina detalles que tenga mas datos de una consulta t=
+
+https://www.omdbapi.com/?apikey=950bba72&t=Uncharted%204:%20A%20Thief%27s%20End
+-¿Boton que te permita valorar las peliculas o series que vas viendo?
+
+enlace que te mande a una pagina que añada el producto y que devuelva al index ejecute de nuevo la mmisma consulta
+
+enlacce que en otra pagina añada y que despues se cierre
